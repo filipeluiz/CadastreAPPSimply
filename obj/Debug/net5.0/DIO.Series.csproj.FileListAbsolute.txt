@@ -3,3 +3,14 @@
 /home/filipe/Projetos/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
 /home/filipe/Projetos/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
 /home/filipe/Projetos/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/filipe/Projetos/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/filipe/Projetos/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/filipe/Projetos/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/filipe/Projetos/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/filipe/Projetos/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/filipe/Projetos/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/filipe/Projetos/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/filipe/Projetos/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/filipe/Projetos/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/filipe/Projetos/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/filipe/Projetos/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
